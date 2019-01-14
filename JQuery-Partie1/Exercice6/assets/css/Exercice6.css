@@ -1,0 +1,13 @@
+body {
+text-align: center;
+padding-top: 100px;
+}
+ul{
+  background-color: green;
+}
+ol{
+  background-color: blue;
+}
+.hide{
+  background-color: yellow;
+}

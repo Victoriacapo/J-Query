@@ -1,0 +1,19 @@
+body {
+text-align: center;
+padding-top: 100px;
+}
+.color{
+  float: left;
+  width: 30px;
+  height: 30px;
+  margin : 5px;
+}
+.green{
+  background-color: green;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}

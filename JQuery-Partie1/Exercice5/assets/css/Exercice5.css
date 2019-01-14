@@ -1,0 +1,16 @@
+body {
+text-align: center;
+padding-top: 100px;
+}
+#firstText{
+  padding-top: 40px;
+  background-color: green;
+}
+#secondText{
+  padding-top: 40px;
+  background-color: yellow;
+}
+#thirdText{
+  padding-top: 40px;
+  background-color: blue;
+}

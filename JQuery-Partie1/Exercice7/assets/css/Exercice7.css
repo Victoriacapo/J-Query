@@ -1,0 +1,13 @@
+body {
+text-align: center;
+padding-top: 120px;
+}
+ul{
+  background-color: yellow;
+}
+ol{
+  background-color: green;
+}
+.remove{
+  background-color: blue;
+}

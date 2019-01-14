@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link type="text/css" href="../assets/css/Exercice1.css" rel="stylesheet" />
+  <title>Exercice 1</title>
+</head>
+<body>
+  <div style="text-align :center">
+    <p>Choix computer : <span id="PC"></span></p>
+    <ul>
+      <li>Feuille<input type="radio" name="choice" id="Feuille" value="Feuille"></li>
+      <li>Pierre<input type="radio" name="choice" id="Pierre" value="Pierre" checked></li>
+      <li>Ciseau<input type="radio" name="choice" id="Ciseau" value="Ciseau"></li>
+      <!-- type radio doit avoir le meme name -->
+    </ul>
+     <button id="button" type="submit">shifumi</button>
+  <p>Le gagnant est: <span id="winner"></span></p>
+  <p>NB Victoires joueur <span id="Playervictory"></span></p>
+  <p>NB Victoires ordinateur <span id="Computervictory"></span></p>
+  <p>Pourcentage de Victoire du joueur<span id="RateVictory"></span></p>
+  </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="../assets/js/Exercice1.js"></script>
+</body>
+</html>
